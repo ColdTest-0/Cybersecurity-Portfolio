@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
-[Link to SIEM Project](./SIEM_Azure_Project.md)
+[Link to SIEM Project](./SIEM Azure Project.md)
 
 There should be whitespace between paragraphs.
 
