@@ -40,11 +40,13 @@ This project documents my experience performing the [Cisco Packet Tracer](https:
 
 > This portion of the learning collection focuses on how to connect and manage devices within the virtual network. It has an emphasis on using some devices to manage others, like using a tablet or desktop to change settings on a router.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
+- Lab: Cable Structuring
+  - This lab focuses on managing cables in physical mode.
+  - First, I install a patch panel in the lab's wiring closet. Using cables, I attach it to the switch.
+  - In the office, I add a wall mount and link it to the patch panel, PC, and printer.
+  - Bendpoints are used to organize cables to the office's corners.
+  - I use a second patch panel and connect a second PC to it.
+
 - level 1 item
   - level 2 item
   - level 2 item
