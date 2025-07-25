@@ -17,8 +17,8 @@ This project documents my experience performing the [Cisco Packet Tracer](https:
   - I place a home router, PC, laptop, and microphone into the simulated environment.
   - I connect the router to the PC with a wired connection and set the laptop to be wireless. It connects automatically.
   - I set the SSID on the microphone to match the router, allowing it to connect wirelessly.
-![Basic Home Network](../ImageFolder/BasicHome2.png)
-<img src="../ImageFolder/BasicHome2.png" alt="Basic Home Network" style="width:500px;height:600px;">
+<img src="../ImageFolder/BasicHome2.png" alt="Basic Home Network" style="width:500px;height:auto;">
+
 - level 1 item
   - level 2 item
   - level 2 item
