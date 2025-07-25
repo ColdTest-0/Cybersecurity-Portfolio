@@ -12,11 +12,13 @@ This project documents my experience performing the [Cisco Packet Tracer](https:
 
 > This is the first part of the learning collection. It describes what Cisco Packet Tracer is, how the application is layed out, and how to use its basic features like placing and interacting with network components.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
+- Lab: Home Network Test
+  - After downloading and installing Cisco Packet Tracer, I am taught how to set up a basic home network.
+  - I place a home router, PC, laptop, and microphone into the simulated environment.
+  - I connect the router to the PC with a wired connection and set the laptop to be wireless. It connects automatically.
+  - I set the SSID on the microphone to match the router, allowing it to connect wirelessly.
+![Basic Home Network](../ImageFolder/BasicHome2.png)
+
 - level 1 item
   - level 2 item
   - level 2 item
