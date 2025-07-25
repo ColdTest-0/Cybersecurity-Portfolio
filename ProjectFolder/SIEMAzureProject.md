@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to main page](index.md).
+[Link to main page](.../index.md).
 
 There should be whitespace between paragraphs.
 
