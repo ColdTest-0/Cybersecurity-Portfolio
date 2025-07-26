@@ -44,17 +44,48 @@ This project documents my experience performing the [Cisco Packet Tracer](https:
   - This lab focuses on managing cables in physical mode.
   - First, I install a patch panel in the lab's wiring closet. Using cables, I attach it to the switch.
   - In the office, I add a wall mount and link it to the patch panel, PC, and printer.
-  - Bendpoints are used to organize cables to the office's corners.
   - I use a second patch panel and connect a second PC to it.
+  - Bendpoints are used to organize cables to the office's corners.
+<img src="../ImageFolder/HomeOffice3.png" alt="Organized Office Network" style="width:500px;height:auto;">
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- Lab: Wireless Devices
+  - I swap a laptop to wireless mode and use the PC's wireless tool to connect on the WLAN.
+  - I enable bluetooth on a speaker and connect it to the office tablet.
+  - I enable bluetooth on a phone. I bluetooth pair and tether it to the previously mentioned laptop.
+
+- Lab: Device Configuration with Console
+  - Using a laptop terminal, I access a switch. I use commands to change its name and password settings.
+  - In order to make these changes permanent, I save them as the boot settings. They are now the default when the switch is turned on.
+
+- Lab: Examining Packets
+  - I use Cisco Packet Tracer to create a simple ping between two devices.
+  - Using the simulation panel, I view the ping's results.
+  - I create a complex ping with manual parameters. The ping will occur every 5 seconds.
+  - I view the new ping in the simulation panel.
+
+- Lab: Editing Topologies
+  - This lab consists of multiple clusters of devices.
+  - In the office cluster, I connect a PC to a wall mount, that wall mount to a patch panel, and that patch panel to a switch.
+  - I ping the remote server with the PC to confirm network connectivity.
+  - Zooming out from the office, I view the multiple clusters in the Lab. The lab has me uncluster and recluster one of them.
+  - The lab has me create a small group of devices and connect them together. I cluster the group into one item in the logical view.
+  - I connect the new cluster's modem to the ISP server.
+<img src="../ImageFolder/Manage3.png" alt="Unclustered Home Network" style="width:500px;height:auto;">
+<img src="../ImageFolder/Manage4.png" alt="Clustered Home Network" style="width:500px;height:auto;">
+
+- Lab: Network Controller
+  - I install a network controller onto the device rack and connect it to a switch.
+  - I ping the network controller from a PC to check its connectivity, then log into its web application.
+  - After viewing the currently managed network devices, I add multiple new devices to the network.
+  - I return to the network controller's web application and discover the new devices.
+<img src="../ImageFolder/Controller1.png" alt="List of Controlled Devices" style="width:500px;height:auto;">
+
+- Lab: Network Troubleshooting
+  - In this lab, a PC has been failing to connect to the network.
+  - I attempt to connect to the network from all PCs and discover the one which isn't connecting.
+  - Using an ipconfig command from a working PC, I retrieve the network router's IP address.
+  - I log into the router's web app from a working PC and retrieve its password.
+  - I connect to the router with the problem PC, allowing it to connect to the network.
 
 ## Exploring Internet of Things With Cisco Packet Tracer
 
