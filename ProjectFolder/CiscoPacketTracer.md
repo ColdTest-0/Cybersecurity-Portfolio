@@ -93,18 +93,40 @@ This project documents my experience performing the [Cisco Packet Tracer](https:
 
 > This is the last part of the learning collection. It describes Cisco Packet Tracer's ability to create and edit network components which represent various smart objects.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- Lab: Adding IoT Devices
+  - This lab comes with a premade network full of IoT devices.
+  - After looking around the network and learning how these devices work, I add items and connect them.
+  - I add a wind detector and connect it wirelessly to the gateway.
+  - I add a lawn sprinkler and connect it with a wire to the gateway.
+  - I add a water meter and connect it with a wire to the smart sprinkler.
+<img src="../ImageFolder/IoTHome1.png" alt="Smart Home Network" style="width:500px;height:auto;">
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+- Lab: Using a Home Gateway
+  - I add a gateway and tablet to a new home network and connect it to the modem.
+  - A number of devices are introduced to the network, including a tablet, lamp, fan, door, speaker, and music player.
+  - I connect all wired devices to the network, and wait for wireless devices to connect themselves.
+  - I set the device SSIDs to the gateway, allowing them to be managed.
+  - I use bluetooth to connect the speaker and music player.
+<img src="../ImageFolder/HomeSetup2.png" alt="Gateway Managed Network" style="width:500px;height:auto;">
+
+- Lab: Registration Server
+  - This lab involves setting devices to use a registration server instead of the home gateway for management.
+  - I set the lamp, fan, and door to use the registration server in their configuration.
+  - I connect to the server with a tablet and confirm that it has detected the devices.
+  - I use bluetooth and tether a laptop to a phone. I ping the registration server from the laptop to confirm connectivity.
+
+- Lab: Managing Environmental Settings
+  - I open the environment tab in Cisco Packet Tracer.
+  - I select only the temperature tab and pin it to the top.
+  - I move the temperature points to be higher throughout the day.
+
+- Lab: Create an IoT Thing
+  - I add a blank Thing to a network and name it "Security Camera."
+  - Using the configuration tab, the Thing is given a digital port and wifi connection.
+  - It is given a default and active image of a security camera.
+  - The lab has me save this thing for use later.
+  - I copy the code of a motion detector to the security camera thing, tweaking the code to match the new name.
+  - Using the alt key, I am able to activate its motion detection, causing it to switch images.
+  - I set the security camera thing to use a remote server, and check its info on said server.
+<img src="../ImageFolder/Thing1.png" alt="Organized Office Network" style="width:500px;height:auto;">
+
