@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<a href="https://coldtest-0.github.io/Cybersecurity-Portfolio/" target="_blank">Main Page</a>
- | <a href="https://coldtest-0.github.io/Cybersecurity-Portfolio/ProjectPage" target="_blank">Projects Page</a>
- | <a href="https://coldtest-0.github.io/Cybersecurity-Portfolio/ContactPage" target="_blank">Contact Page</a>
+<a href="https://coldtest-0.github.io/Cybersecurity-Portfolio/">Main Page</a>
+ | <a href="https://coldtest-0.github.io/Cybersecurity-Portfolio/ProjectPage">Projects Page</a>
+ | <a href="https://coldtest-0.github.io/Cybersecurity-Portfolio/ContactPage">Contact Page</a>
 
 A list of projects showcasing my education:
 
