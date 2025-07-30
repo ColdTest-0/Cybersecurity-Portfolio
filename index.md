@@ -2,15 +2,10 @@
 layout: default
 ---
 
-[Link to main page](../index.md).
+<p1 style="text-align:center;">[Link to main page](../index.md) | [Projects]() | [Contact Information]()</p1>
 
 # Helps protect valuable assets and maintain security standards.
 
 Continuously developing technical skills, policy knowledge, and cybersecurity experience.
 
-## A collection of portfolio projects:
-
-[Link to Cisco Packet Tracer Project.](./ProjectFolder/CiscoPacketTracer.md)
-
-### Under Development
-
+[Link to Cisco Packet Tracer Project](./ProjectFolder/CiscoPacketTracer.md).
