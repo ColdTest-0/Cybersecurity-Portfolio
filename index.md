@@ -8,7 +8,7 @@ Continuously developing technical skills, policy knowledge, and cybersecurity ex
 
 ## A collection of portfolio projects:
 
-[Link to Cisco Packet Tracer Project](./ProjectFolder/CiscoPacketTracer.md).
+[Link to Cisco Packet Tracer Project.](./ProjectFolder/CiscoPacketTracer.md)
 
 ### Under Development
 
