@@ -131,4 +131,4 @@ This project documents my experience performing the [Cisco Packet Tracer](https:
 <img src="../ImageFolder/Thing1.png" alt="Organized Office Network" style="width:500px;height:auto;">
 
 
-# After taking the final exam, I pass Cisco Packet Tracer's introductory course.
+## After taking the final exam, I pass Cisco Packet Tracer's introductory course.
