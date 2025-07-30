@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 A list of projects showcasing my education:
 
