@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<head>
+  <title>Cybersecurity Portfolio</title>
+</head>
 
 # Helps protect valuable assets and maintain security standards.
 
