@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Link to main page](../index.md).
+[Main Page](../index.md).
 
 # Cisco Packet Tracer Introductory Course
 
