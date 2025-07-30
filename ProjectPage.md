@@ -8,4 +8,4 @@ layout: default
 
 A list of projects showcasing my education:
 
-[Link to Cisco Packet Tracer Project](./ProjectFolder/CiscoPacketTracer.md).
+<a href="https://coldtest-0.github.io/Cybersecurity-Portfolio/ProjectFolder/CiscoPacketTracer" target="_blank">Cisco Packet Tracer Project</a>
