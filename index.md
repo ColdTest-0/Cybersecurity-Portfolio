@@ -9,3 +9,6 @@ layout: default
 # Helps protect data assets and maintain security standards.
 
 Continuously developing technical skills, policy knowledge, and cybersecurity experience.
+
+## Qualifications
+
