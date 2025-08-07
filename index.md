@@ -10,6 +10,8 @@ layout: default
 
 Continuously developing technical skills, policy knowledge, and cybersecurity experience.
 
+Has hands on experience with labwork involving digital forensics, risk management, access controls, and security policy. Has a background in game design and GDScript Programming. Has worked in a semi-remote setting, using company laptop to do work during inclement weather.
+
 ## Qualifications
 
 <ul>
