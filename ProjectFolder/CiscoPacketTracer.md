@@ -66,7 +66,6 @@ This project documents my experience performing the [Cisco Packet Tracer](https:
   - I view the new ping in the simulation panel.
 <img src="../ImageFolder/Ping1.png" alt="Ping Result" style="width:500px;height:auto;">
 
-
 - Lab: Editing Topologies
   - This lab consists of multiple clusters of devices.
   - In the office cluster, I connect a PC to a wall mount, that wall mount to a patch panel, and that patch panel to a switch.
