@@ -30,6 +30,7 @@ This project documents my experience performing the [SIEM Home Lab](https://medi
   - Starting the User machine, I set its DNS IP address to the Server's IP address.
   - I adjust the settings on both machines to allow an LAN connection. This involves disabling firewall and IPv6 and allowing remote connections.
   - I connect the User machine to the siemtest.local domain using the Admin account. I confirm the connection on the Server machine.
+
 <img src="../ImageFolder/ADInstall.png" alt="Installed Active Directory" style="width:500px;height:auto;">
 <img src="../ImageFolder/DomainControllerSuccess.png" alt="Successful Promotion" style="width:500px;height:auto;">
 <img src="../ImageFolder/DomainSignIn.png" alt="Signed Into Domain" style="width:500px;height:auto;">
