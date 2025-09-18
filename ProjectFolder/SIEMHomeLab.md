@@ -20,6 +20,7 @@ This project documents my experience performing the [SIEM Home Lab](https://medi
   - The new firewall is configured to have adapter 1 be a bridged WAN connection. Adapter 2 is a LAN connection.
   - Starting the new system, I complete initial installation.
   - Using the PfSense console, I configure the LAN to have the address 192.168.50.1, with a DHCP range starting at 192.168.50.20.
+
 <img src="../ImageFolder/FirewallSettings.png" alt="PfSense Settings" style="width:500px;height:auto;">
 
 - Task 2: Windows Setup
