@@ -50,4 +50,16 @@ This project documents my experience performing the [SIEM Home Lab](https://medi
 <img src="../ImageFolder/UserForwarder.png" alt="Forwarding User Data" style="width:500px;height:auto;">
   - Now, all events on the Windows machines are logged remotely on the Linux machine
  
+## Part 2: Firewall Alert
+
+ This part consist of configuring Splunk to create an alert and send an email after certain firewall activity.
+ 
+- Task 1: PfSense Setup
+  - 
+
+
+
+
+
+
 
