@@ -19,7 +19,7 @@ This project documents my experience performing the [Cisco Packet Tracer](https:
   - I place a home router, PC, laptop, and microphone into the simulated environment.
   - I connect the router to the PC with a wired connection and set the laptop to be wireless. It connects automatically.
   - I set the SSID on the microphone to match the router, allowing it to connect wirelessly.
-<img src="../ImageFolder/BasicHome2.png" alt="Basic Home Network" style="width:500px;height:auto;">
+<br><img src="../ImageFolder/BasicHome2.png" alt="Basic Home Network" style="width:500px;height:auto;">
 
 - Lab: Logical and Physical Mode Exploration
   - This lab explains the difference between logical and physical mode in the app.
@@ -28,7 +28,7 @@ This project documents my experience performing the [Cisco Packet Tracer](https:
   - The lab comes with an prebuilt intercity network, and focuses on physical mode.
   - In the office, I connect a PC to the ethernet and edge router. I then install a second router and connect it to a laptop.
   - Using the laptop, I access the second router and use console commands to change its settings.
-<img src="../ImageFolder/Intercity5.png" alt="Router Settings" style="width:500px;height:auto;">
+<br><img src="../ImageFolder/Intercity5.png" alt="Router Settings" style="width:500px;height:auto;">
   
 - Lab: Build a Home Network
   - In this lab, I establish a home network and connect it to the internet.
@@ -36,7 +36,7 @@ This project documents my experience performing the [Cisco Packet Tracer](https:
   - Using cables, I connectthe PC to the wireless router, the router to the modem, and the modem to the internet.
   - Utilizing physical mode, I switch the laptop to be wireless, allowing to to connect to the router.
   - To confirm a connection, I use the virtual web browser on the laptop.
-<img src="../ImageFolder/Home2.png" alt="Online Home Network" style="width:500px;height:auto;">
+<br><img src="../ImageFolder/Home2.png" alt="Online Home Network" style="width:500px;height:auto;">
 
 ## Exploring Networking With Cisco Packet Tracer
 
@@ -48,7 +48,7 @@ This project documents my experience performing the [Cisco Packet Tracer](https:
   - In the office, I add a wall mount and link it to the patch panel, PC, and printer.
   - I use a second patch panel and connect a second PC to it.
   - Bendpoints are used to organize cables to the office's corners.
-<img src="../ImageFolder/HomeOffice3.png" alt="Organized Office Network" style="width:500px;height:auto;">
+<br><img src="../ImageFolder/HomeOffice3.png" alt="Organized Office Network" style="width:500px;height:auto;">
 
 - Lab: Wireless Devices
   - I swap a laptop to wireless mode and use the PC's wireless tool to connect on the WLAN.
@@ -64,7 +64,7 @@ This project documents my experience performing the [Cisco Packet Tracer](https:
   - Using the simulation panel, I view the ping's results.
   - I create a complex ping with manual parameters. The ping will occur every 5 seconds.
   - I view the new ping in the simulation panel.
-<img src="../ImageFolder/Ping1.png" alt="Ping Result" style="width:500px;height:auto;">
+<br><img src="../ImageFolder/Ping1.png" alt="Ping Result" style="width:500px;height:auto;">
 
 - Lab: Editing Topologies
   - This lab consists of multiple clusters of devices.
@@ -73,7 +73,7 @@ This project documents my experience performing the [Cisco Packet Tracer](https:
   - Zooming out from the office, I view the multiple clusters in the Lab. The lab has me uncluster and recluster one of them.
   - The lab has me create a small group of devices and connect them together. I cluster the group into one item in the logical view.
   - I connect the new cluster's modem to the ISP server.
-<img src="../ImageFolder/Manage3.png" alt="Unclustered Home Network" style="width:500px;height:auto;">
+<br><img src="../ImageFolder/Manage3.png" alt="Unclustered Home Network" style="width:500px;height:auto;">
 <img src="../ImageFolder/Manage4.png" alt="Clustered Home Network" style="width:500px;height:auto;">
 
 - Lab: Network Controller
@@ -81,7 +81,7 @@ This project documents my experience performing the [Cisco Packet Tracer](https:
   - I ping the network controller from a PC to check its connectivity, then log into its web application.
   - After viewing the currently managed network devices, I add multiple new devices to the network.
   - I return to the network controller's web application and discover the new devices.
-<img src="../ImageFolder/Controller1.png" alt="List of Controlled Devices" style="width:500px;height:auto;">
+<br><img src="../ImageFolder/Controller1.png" alt="List of Controlled Devices" style="width:500px;height:auto;">
 
 - Lab: Network Troubleshooting
   - In this lab, a PC has been failing to connect to the network.
@@ -100,7 +100,7 @@ This project documents my experience performing the [Cisco Packet Tracer](https:
   - I add a wind detector and connect it wirelessly to the gateway.
   - I add a lawn sprinkler and connect it with a wire to the gateway.
   - I add a water meter and connect it with a wire to the smart sprinkler.
-<img src="../ImageFolder/IoTHome1.png" alt="Smart Home Network" style="width:500px;height:auto;">
+<br><img src="../ImageFolder/IoTHome1.png" alt="Smart Home Network" style="width:500px;height:auto;">
 
 - Lab: Using a Home Gateway
   - I add a gateway and tablet to a new home network and connect it to the modem.
@@ -108,7 +108,7 @@ This project documents my experience performing the [Cisco Packet Tracer](https:
   - I connect all wired devices to the network, and wait for wireless devices to connect themselves.
   - I set the device SSIDs to the gateway, allowing them to be managed.
   - I use bluetooth to connect the speaker and music player.
-<img src="../ImageFolder/HomeSetup2.png" alt="Gateway Managed Network" style="width:500px;height:auto;">
+<br><img src="../ImageFolder/HomeSetup2.png" alt="Gateway Managed Network" style="width:500px;height:auto;">
 
 - Lab: Registration Server
   - This lab involves setting devices to use a registration server instead of the home gateway for management.
@@ -129,7 +129,7 @@ This project documents my experience performing the [Cisco Packet Tracer](https:
   - I copy the code of a motion detector to the security camera thing, tweaking the code to match the new name.
   - Using the alt key, I am able to activate its motion detection, causing it to switch images.
   - I set the security camera thing to use a remote server, and check its info on said server.
-<img src="../ImageFolder/Thing1.png" alt="Organized Office Network" style="width:500px;height:auto;">
+<br><img src="../ImageFolder/Thing1.png" alt="Organized Office Network" style="width:500px;height:auto;">
 
 
 ## After taking the final exam, I pass Cisco Packet Tracer's introductory course.
