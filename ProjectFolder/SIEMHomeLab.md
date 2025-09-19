@@ -20,8 +20,7 @@ This project documents my experience performing the [SIEM Home Lab](https://medi
   - The new firewall is configured to have adapter 1 be a bridged WAN connection. Adapter 2 is a LAN connection.
   - Starting the new system, I complete initial installation.
   - Using the PfSense console, I configure the LAN to have the address 192.168.50.1, with a DHCP range starting at 192.168.50.20.
-
-<img src="../ImageFolder/FirewallSettings.png" alt="PfSense Settings" style="width:500px;height:auto;">
+<br><img src="../ImageFolder/FirewallSettings.png" alt="PfSense Settings" style="width:500px;height:auto;">
 
 - Task 2: Windows Setup
   - I download iso images for Windows 10 and Windows Server 2019 from the official website.
@@ -31,8 +30,7 @@ This project documents my experience performing the [SIEM Home Lab](https://medi
   - Starting the User machine, I set its DNS IP address to the Server's IP address.
   - I adjust the settings on both machines to allow an LAN connection. This involves disabling firewall and IPv6 and allowing remote connections.
   - I connect the User machine to the siemtest.local domain using the Admin account. I confirm the connection on the Server machine.
-
-<img src="../ImageFolder/ADInstall.png" alt="Installed Active Directory" style="width:500px;height:auto;">
+<br><img src="../ImageFolder/ADInstall.png" alt="Installed Active Directory" style="width:500px;height:auto;">
 <img src="../ImageFolder/DomainControllerSuccess.png" alt="Successful Promotion" style="width:500px;height:auto;">
 <img src="../ImageFolder/DomainSignIn.png" alt="Signed Into Domain" style="width:500px;height:auto;">
 <img src="../ImageFolder/ActiveDirectoryComputer.png" alt="Active Directory Computer" style="width:500px;height:auto;">
@@ -47,7 +45,7 @@ This project documents my experience performing the [SIEM Home Lab](https://medi
   - In the Splunk WebUI, I confirm that it is recieving data from the Windows machines.
   - I set Splunk to forward all event logs from each machine to their respective index.
   - Now, all events on the Windows machines are logged remotely on the Linux machine
-<img src="../ImageFolder/SplunkInstall.png" alt="Splunk Sign In Screen" style="width:500px;height:auto;">
+<br><img src="../ImageFolder/SplunkInstall.png" alt="Splunk Sign In Screen" style="width:500px;height:auto;">
 <img src="../ImageFolder/ListenPort.png" alt="Listen on Port 9997" style="width:500px;height:auto;">
 <img src="../ImageFolder/ServerForwarder.png" alt="Forwarding Server Data" style="width:500px;height:auto;">
 <img src="../ImageFolder/UserForwarder.png" alt="Forwarding User Data" style="width:500px;height:auto;">
