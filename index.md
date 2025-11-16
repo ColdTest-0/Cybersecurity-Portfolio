@@ -15,6 +15,8 @@ Has hands on experience with labwork involving digital forensics, risk managemen
 ## Qualifications
 
 <ul>
+  <li>ISC2 CC Certified in Cybersecurity, November 2025
+</li>
   <li>Master of Science in Cybersecurity, John Brown University, September 2025
 </li>
   <li>Bachelor of Arts in Game and Interactive Media Design (Magna Cum Laude), Arkansas Tech University, December 2020
