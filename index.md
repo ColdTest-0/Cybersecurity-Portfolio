@@ -25,6 +25,6 @@ Has hands on experience with labwork involving digital forensics, risk managemen
 </li>
   <li>Customer Service Representative, Domino's Pizza, 2018 to 2020
 </li>
-  <li>Physical Therapy Technicial, Holly Street Physical Therapy, 2016 to 2018
+  <li>Physical Therapy Technician, Holly Street Physical Therapy, 2016 to 2018
 </li>
 </ul>
