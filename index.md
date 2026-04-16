@@ -21,7 +21,9 @@ Has hands on experience with labwork involving digital forensics, risk managemen
 </li>
   <li>Bachelor of Arts in Game and Interactive Media Design (Magna Cum Laude), Arkansas Tech University, December 2020
 </li>
-  <li>Head of the Posing Department, The NR Group, March 2021 to January 2024
+  <li>Security Officer, American Security Associates, February 2026 to present
+</li>
+  <li>Head of the Posting Department, The NR Group, March 2021 to January 2024
 </li>
   <li>Customer Service Representative, Domino's Pizza, 2018 to 2020
 </li>
