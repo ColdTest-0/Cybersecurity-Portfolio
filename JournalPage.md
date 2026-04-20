@@ -9,19 +9,36 @@ layout: default
 
 ## Sparkcon 2026
 
+Last year I attended Sparkcon as a student, but this year I attended as a professional.
+Bringing along a clipboard and an inquisitive mind, I decided to briefly interview attendees and company representatives.
+I asked what advice they would have for those like myself just getting into the Cybersecurity industry.
+Here are some of responses which I was given.
+
 <ul>
-  <li>ISC2 CC Certified in Cybersecurity, November 2025
+  <li>Try to search company websites for jobs instead of job boards like Indeed or Linkedin.
 </li>
-  <li>Master of Science in Cybersecurity, John Brown University, September 2025
+   <li>Certifications are nice, but demonstrable personal/professional experience is better.
 </li>
-  <li>Bachelor of Arts in Game and Interactive Media Design (Magna Cum Laude), Arkansas Tech University, December 2020
+   <li>Do free online cybersecurity courses like Hack The Box or TryHackMe.
 </li>
-  <li>Security Officer, American Security Associates, February 2026 to present
+   <li>Tailor each resume you submit to a job. AI filters are trained to exclude "shotgun applications".
 </li>
-  <li>Head of the Posting Department, The NR Group, March 2021 to January 2024
+   <li>If you are looking to get generalized knowledge of multiple cybersecurity fields, look for employment at a MSSP.
 </li>
-  <li>Customer Service Representative, Domino's Pizza, 2018 to 2020
+   <li>There are many cybersecurity fields; try to find one that you like and become an expert in it.
 </li>
-  <li>Physical Therapy Technician, Holly Street Physical Therapy, 2016 to 2018
+   <li>Figure out what you want to do, why you want to do it, and what skills will allow you to do it.
+</li>
+   <li>Try to search company websites for jobs instead of job boards like Indeed or Linkedin.
+</li>
+   <li>Find someone willing to teach you. Mentorship is the best way to gain important knowledge.
+</li>
+   <li>Be in front of current security events and developments, not behind.
+</li>
+   <li>The currently most important security concern is how attackers will use AI in social engineering.
+</li>
+   <li>Agentic AI is going to be an important tool for automating security responses.
 </li>
 </ul>
+
+This year's Sparkcon was an illuminating event, and I look forward to applying what I learned going forward.
