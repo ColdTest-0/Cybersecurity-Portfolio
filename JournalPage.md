@@ -7,13 +7,7 @@ layout: default
  | <a href="https://coldtest-0.github.io/Cybersecurity-Portfolio/ContactPage">Contact Page</a>
  | <a href="https://coldtest-0.github.io/Cybersecurity-Portfolio/JournalPage">Journal Page</a>
 
-# Helps protect data assets and maintain security standards.
-
-Continuously developing technical skills, policy knowledge, and cybersecurity experience.
-
-Has hands on experience with labwork involving digital forensics, risk management, access controls, and security policy. Has a background in game design and GDScript Programming. Has worked in a semi-remote setting, using company laptop to do work during inclement weather.
-
-## Qualifications
+## Sparkcon 2026
 
 <ul>
   <li>ISC2 CC Certified in Cybersecurity, November 2025
